@@ -1,0 +1,104 @@
+{
+  "top_drugs": [
+    {
+      "brand_name": "Levo-t, Levolet, Levothroid, Levoxyl, Novothyrox, Synthroid, Tirosint, Unithroid, Thyro-tabs, Tirosint-sol, Euthyrox",
+      "generic_name": "Levothyroxine"
+    },
+    {
+      "brand_name": "Prinivil, Qbrelis, Zestril",
+      "generic_name": "Lisinopril"
+    },
+    {
+      "brand_name": "Lipitor",
+      "generic_name": "Atorvastatin"
+    },
+    {
+      "brand_name": "Fortamet, Glucophage, Glucophage XR, Glumetza, Riomet",
+      "generic_name": "Metformin Hydrochloride"
+    },
+    {
+      "brand_name": "Norvasc",
+      "generic_name": "Amlodipine Besylate"
+    },
+    {
+      "brand_name": "Toprol-XL, Lopressor, Kapspargo Sprinkle",
+      "generic_name": "Metoprolol"
+    },
+    {
+      "brand_name": "Prilosec, Prilosec OTC",
+      "generic_name": "Omeprazole"
+    },
+    {
+      "brand_name": "Flolipid, Zocor",
+      "generic_name": "Simvastatin"
+    },
+    {
+      "brand_name": "Cozaar",
+      "generic_name": "Losartan Potassium"
+    },
+    {
+      "brand_name": "Proventil, Ventolin, Accuneb, ProAir HFA, ProAir RespiClick, Proventil HFA, Ventolin HFA, Ventolin Rotacaps, Volmax, Vospire ER",
+      "generic_name": "Albuterol"
+    },
+    {
+      "brand_name": "Gralise, Neurontin",
+      "generic_name": "Gabapentin"
+    },
+    {
+      "brand_name": "Esidrix, Hydro-D, Hydrodiuril, Microzide, Oretic, Zide",
+      "generic_name": "Hydrochlorothiazide"
+    },
+    {
+      "brand_name": "Allay, Anexsia, Bancap HC, Co-Gesic, Duradyne DHC, HY-Phen, Lorcet-HD, Lortab, Norcet, Norco, Tycolet, Vicodin, Vicodin ES, Vicodin HP, Zydone, Zyfrel",
+      "generic_name": "Acetaminophen; Hydrocodone Bitartrate"
+    },
+    {
+      "brand_name": "Zoloft",
+      "generic_name": "Sertraline Hydrochloride"
+    },
+    {
+      "brand_name": "Lasix",
+      "generic_name": "Furosemide"
+    },
+    {
+      "brand_name": "Arnuity Ellipta, Cutivate, Flonase, Flovent, Flovent Diskus, Flovent HFA, Armonair RespiClick, Xhance",
+      "generic_name": "Fluticasone"
+    },
+    {
+      "brand_name": "Acephen, Infants' Feverall, Injectapap, Neopap, Ofirmev, Tylenol",
+      "generic_name": "Acetaminophen"
+    },
+    {
+      "brand_name": "Amoxil, Dispermox, Larotid, Moxatag, Polymox, Trimox, Utimox, Wymox",
+      "generic_name": "Amoxicillin"
+    },
+    {
+      "brand_name": "Niravam, Xanax, Xanax XR",
+      "generic_name": "Alprazolam"
+    },
+    {
+      "brand_name": "Tenormin",
+      "generic_name": "Atenolol"
+    },
+    {
+      "brand_name": "Celexa",
+      "generic_name": "Citalopram"
+    },
+    {
+      "brand_name": "Basaglar, Lantus, Lantus SoloStar, Toujeo SoloStar",
+      "generic_name": "Insulin Glargine"
+    },
+    {
+      "brand_name": "Singulair",
+      "generic_name": "Montelukast"
+    },
+    {
+      "brand_name": "Desyrel, Oleptro, Trialodine",
+      "generic_name": "Trazodone Hydrochloride"
+    },
+    {
+      "brand_name": "Protonix",
+      "generic_name": "Pantoprazole Sodium"
+    }
+  ]
+}
